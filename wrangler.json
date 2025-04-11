@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "young-dust-02c9",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ba95cefd-1e1c-4d19-8f7c-0535bfcb7ec1",
+      "database_name": "old-sound-0735-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
